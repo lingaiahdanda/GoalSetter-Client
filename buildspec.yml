@@ -9,6 +9,7 @@ phases:
     commands:
       - echo building...
       - npm run build
+      ## npm run test. Haven't added any test yet
 artifacts:
   files:
     - '**/*'
