@@ -1,5 +1,5 @@
 {
-  "name": "frontend",
+  "name": "GoalSetter-Client",
   "version": "0.1.0",
   "proxy": "http://44.201.27.178:8000",
   "private": true,
